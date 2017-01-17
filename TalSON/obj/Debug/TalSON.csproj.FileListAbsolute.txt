@@ -1,0 +1,8 @@
+F:\Google Drive\Coding\C#\Visual Studio\TalSON\TalSON\bin\Debug\TalSON.exe.config
+F:\Google Drive\Coding\C#\Visual Studio\TalSON\TalSON\bin\Debug\TalSON.exe
+F:\Google Drive\Coding\C#\Visual Studio\TalSON\TalSON\bin\Debug\TalSON.pdb
+F:\Google Drive\Coding\C#\Visual Studio\TalSON\TalSON\obj\Debug\TalSON.csprojResolveAssemblyReference.cache
+F:\Google Drive\Coding\C#\Visual Studio\TalSON\TalSON\obj\Debug\TalSON.exe
+F:\Google Drive\Coding\C#\Visual Studio\TalSON\TalSON\obj\Debug\TalSON.pdb
+F:\Google Drive\Coding\C#\Visual Studio\TalSON\TalSON\bin\Debug\Test1.JSON
+F:\Google Drive\Coding\C#\Visual Studio\TalSON\TalSON\bin\Debug\Test2.JSON
